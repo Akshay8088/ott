@@ -4,8 +4,7 @@ const Search = () => {
             <h1> search results...</h1>
                     let[searchkey]=useParams()
                     return { Search.Movieslist
-                      
-                    }
+                      }
         </div>
       );
 }

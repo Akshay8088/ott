@@ -5,7 +5,7 @@ const Addmovie = () => {
 
     let navigate = useNavigate()
 
-    let moviename = useRef();
+   // let moviename = useRef();
     let hero = useRef();
     let heroine = useRef();
     let director = useRef();
